@@ -1,0 +1,10 @@
+#navList{
+    display: flex;
+    list-style-type: none;
+    width: 100%;
+}
+
+.navItem{
+    margin-left: 10px;
+    cursor: pointer;
+}

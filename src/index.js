@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 //import ContentApp from './ContentApp.js';
-import EventLabb from './EventLabb.js';
+//import GUIState from './GUIState.js';
+import Labb from './BasicAuthLabb.js';
+import './index.css';
 
-ReactDOM.render(<EventLabb />, document.getElementById('root'));
+ReactDOM.render(<Labb />, document.getElementById('root'));
